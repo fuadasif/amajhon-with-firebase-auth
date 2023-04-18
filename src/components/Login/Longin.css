@@ -1,0 +1,15 @@
+.form-container{
+    width: 500px;   
+    height: 600px;
+    border: 2px solid burlywood;
+    border-radius: 8px;
+    margin: 20px auto;
+}
+.form-title{
+    text-align: center;
+    font-family: 'lato';
+    font-weight: 400;
+    font-size: 40px;
+    color: aqua;
+
+}
